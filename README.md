@@ -26,7 +26,7 @@ More info can be found on the [Github pages help page][0]
 
 This is simply a way to create a one-page website with a beautiful template of your choice. Github creates a set of static files in your repository.
 
-[Generated github site](./images/generated-site.png)
+![Generated github site](./images/generated-site.png)
 
 ##Google Analytics
 
